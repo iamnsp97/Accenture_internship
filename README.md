@@ -1,5 +1,7 @@
 # Accenture_Internship
 Accenture Data Analytics and Visualization Virtual Experience by Forage
+![Forage Certificate](https://github.com/iamnsp97/Accenture_internship/assets/101618100/faebaea1-d226-4edc-a859-7f2143456e62)
+
 
 I have completed a Data Analytics and Visualization Virtual Experience. 
 I successfully completed practical tasks in the following areas:
