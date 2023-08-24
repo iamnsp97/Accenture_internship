@@ -8,7 +8,7 @@ I have completed a Data Analytics and Visualization Virtual Experience.
 I successfully completed practical tasks in the following areas:
 
 *Task 1: Project Understanding*
-I thoroughly understood the client's business problem and identified the necessary requirements for the project. This allowed me to focus on the specific tasks that a Data Analyst should address.
+I thoroughly understood the client's business problem and identified the necessary requirements for project. This allowed me to focus on the specific tasks that a Data Analyst should address.
 
 *Task 2: Data Cleaning & Modeling*
 I performed data cleaning and modeling by integrating three files: content, reaction, and reaction types. I utilized formulas such as "VLOOKUP" and "SUMIF" to create a refined dataset that included relevant details. Furthermore, I determined the top 5 performing categories based on total scores.
